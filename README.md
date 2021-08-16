@@ -1,7 +1,6 @@
 # eclipse_emsCad
 # Requirements
 - [es_extended](https://github.com/esx-framework/es_extended/tree/v1-final)
-- [esx_holdup](https://github.com/esx-framework/esx_holdup)
 
 ## Installation:
 Put `eclipse_EmsCad` in your resources folder.
