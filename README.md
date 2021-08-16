@@ -33,7 +33,7 @@ If it have null value - CAD doesn't work
 ![image](https://user-images.githubusercontent.com/36680471/125207162-5fc8d800-e293-11eb-9fb3-5d2ada6fd417.png)
 
 Check `job_grades` table, if you have more job grades for police - you need make changes in source CAD files
-![image](https://user-images.githubusercontent.com/36680471/125207190-930b6700-e293-11eb-91fd-8f3a217eed40.png)
+![image](https://user-images.githubusercontent.com/36680471/129520361-71aad985-a5e4-4d83-98a0-68d74a4fa4d9.png)
 
 
 2.1 Open esx_cad folder via VS Code. 
@@ -49,7 +49,7 @@ Check `job_grades` table, if you have more job grades for police - you need make
 
 2.4 Find `rankList`
 
-![image](https://user-images.githubusercontent.com/36680471/125207303-407e7a80-e294-11eb-9333-da9532264342.png)
+![image](https://user-images.githubusercontent.com/36680471/129520405-8a6272ce-0016-4080-b467-0e1e5c0a4b4a.png)
 
 2.5 Add ranks from your `job_grades` table
 
