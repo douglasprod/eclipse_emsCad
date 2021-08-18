@@ -55,7 +55,7 @@ Check `job_grades` table, if you have more job grades for police - you need make
 
 2.6 Compile Vue.js project via command `npm run build`
 
-2.7 Take files from `esx_cad/dist` and move to your resource folder `eclipse_cad/data`
+2.7 Take files from `ems_cad/dist` and move to your resource folder `eclipse_EmsCad/data`
 
 
 
